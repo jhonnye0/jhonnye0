@@ -1,8 +1,6 @@
-### Hi there 👋
-
 <div align=center>
   
-<img src="https://giffiles.alphacoders.com/398/3987.gif" width=180></img>
+<img src="https://giffiles.alphacoders.com/398/3987.gif" width=500></img>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonnye0&theme=dracula&show_icons=true)
 
